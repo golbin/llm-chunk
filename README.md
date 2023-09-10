@@ -102,6 +102,11 @@ Total: 12.169ms (100 times)
 Average: 0.122ms
 ```
 
+## Family
+
+- [In-memory VectorDB](https://github.com/golbin/imvectordb)
+  - Super simple and easy-to-use in-memory vector DB for Node.js
+
 ## License
 
 MIT

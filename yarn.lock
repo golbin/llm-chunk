@@ -398,6 +398,11 @@ js-yaml@4.1.0:
   dependencies:
     argparse "^2.0.1"
 
+llm-chunk@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/llm-chunk/-/llm-chunk-0.0.1.tgz"
+  integrity sha512-n9fHgsSiJb7vXZiC5c4XV6rme+tC7WX/cWH6EJvPPmMOMwOZ9xdg/U9LY5Qhmixd3K1PdRB0FVOdzoJF2HUZbg==
+
 locate-path@^6.0.0:
   version "6.0.0"
   resolved "https://registry.npmjs.org/locate-path/-/locate-path-6.0.0.tgz"
